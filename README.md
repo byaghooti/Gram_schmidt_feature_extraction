@@ -1,1 +1,1 @@
-# Gram-Schmidt Approaches to Unsupervised\\Feature Extraction and Selection
+# Gram-Schmidt Approaches to Unsupervised Feature Extraction and Selection

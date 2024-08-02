@@ -1,4 +1,4 @@
-## GFS with Multilinear Polynomials of degree up to 2
+## GFS with Multilinear Polynomials of degree up to 3
 # Import Packages
 import numpy as np
 from numpy import linalg as LA

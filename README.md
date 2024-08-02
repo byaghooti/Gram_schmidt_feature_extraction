@@ -1,8 +1,8 @@
 # Gram-Schmidt Approaches to Unsupervised Feature Extraction and Selection
 This repository provides implementation of
 1. Gram-Schmidt Functional Reduction (GFR)
-2. Gram-Schmidt Component Analysis (GCA)
-3. Gram-Schmidt Functional Selection (GFS)
+2. Gram-Schmidt Functional Selection (GFS)
+3. Gram-Schmidt Component Analysis (GCA)
 4. Gram-Schmidt Feature Analysis (GFA)
 
 proposed in the following paper:

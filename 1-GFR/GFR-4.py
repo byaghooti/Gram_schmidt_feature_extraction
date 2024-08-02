@@ -1,4 +1,4 @@
-## GFR with Multilinear Polynomials of degree up to 2
+## GFR with Multilinear Polynomials of degree up to 4
 # Import Packages
 import numpy as np
 from numpy import linalg as LA

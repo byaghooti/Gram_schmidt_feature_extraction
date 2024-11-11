@@ -26,3 +26,4 @@ To cite this work, please use the following format:
       url={https://arxiv.org/abs/2311.09386}, 
 }
 ```
+In all the experiments performed on the benchmark datasets, features were standardized before applying any feature extract algorithm.
